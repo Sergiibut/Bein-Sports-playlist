@@ -1,0 +1,51 @@
+#EXTM3U
+
+# 🇦🇺 Australia
+#EXTINF:-1 tvg-id="beINSports1.au" tvg-name="beIN Sports 1 (Australia)" tvg-logo="https://example.com/bein1-au.png" group-title="Deportes - Australia", beIN Sports 1 (Australia)
+beINSports1.au
+#EXTINF:-1 tvg-id="beINSports2.au" tvg-name="beIN Sports 2 (Australia)" tvg-logo="https://example.com/bein2-au.png" group-title="Deportes - Australia", beIN Sports 2 (Australia)
+beINSports2.au
+#EXTINF:-1 tvg-id="beINSports3.au" tvg-name="beIN Sports 3 (Australia)" tvg-logo="https://example.com/bein3-au.png" group-title="Deportes - Australia", beIN Sports 3 (Australia)
+beINSports3.au
+
+# 🇨🇦 Canada
+#EXTINF:-1 tvg-id="beINSports.ca" tvg-name="beIN Sports (Canada)" tvg-logo="https://example.com/bein-ca.png" group-title="Deportes - Canada", beIN Sports (Canada)
+beINSports.ca
+
+# 🇫🇷 France
+#EXTINF:-1 tvg-id="beINSports.fr" tvg-name="beIN Sports (France)" tvg-logo="https://example.com/bein-fr.png" group-title="Deportes - Francia", beIN Sports (France)
+beINSports.fr
+#EXTINF:-1 tvg-id="beINSports1.fr" tvg-name="beIN Sports 1 (France)" tvg-logo="https://example.com/bein1-fr.png" group-title="Deportes - Francia", beIN Sports 1 (France)
+beINSports1.fr
+#EXTINF:-1 tvg-id="beINSports2.fr" tvg-name="beIN Sports 2 (France)" tvg-logo="https://example.com/bein2-fr.png" group-title="Deportes - Francia", beIN Sports 2 (France)
+beINSports2.fr
+#EXTINF:-1 tvg-id="beINSports3.fr" tvg-name="beIN Sports 3 (France)" tvg-logo="https://example.com/bein3-fr.png" group-title="Deportes - Francia", beIN Sports 3 (France)
+beINSports3.fr
+#EXTINF:-1 tvg-id="beINSportsMax10.fr" tvg-name="beIN Sports Max 10 (France)" tvg-logo="https://example.com/beinmax10-fr.png" group-title="Deportes - Francia", beIN Sports Max 10 (France)
+beINSportsMax10.fr
+
+# 🇭🇰 Hong Kong
+#EXTINF:-1 tvg-id="beINSports1.hk" tvg-name="beIN Sports 1 (Hong Kong)" tvg-logo="https://example.com/bein1-hk.png" group-title="Deportes - Hong Kong", beIN Sports 1 (Hong Kong)
+beINSports1.hk
+#EXTINF:-1 tvg-id="beINSports2.hk" tvg-name="beIN Sports 2 (Hong Kong)" tvg-logo="https://example.com/bein2-hk.png" group-title="Deportes - Hong Kong", beIN Sports 2 (Hong Kong)
+beINSports2.hk
+
+# 🇮🇩 Indonesia
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="beIN Sports 1 (Indonesia)" tvg-logo="https://example.com/bein1-id.png" group-title="Deportes - Indonesia", beIN Sports 1 (Indonesia)
+beINSports1.id
+#EXTINF:-1 tvg-id="beINSports3.id" tvg-name="beIN Sports 3 (Indonesia)" tvg-logo="https://example.com/bein3-id.png" group-title="Deportes - Indonesia", beIN Sports 3 (Indonesia)
+beINSports3.id
+
+# 🇵🇭 Philippines
+#EXTINF:-1 tvg-id="beINSports1.ph" tvg-name="beIN Sports 1 (Philippines)" tvg-logo="https://example.com/bein1-ph.png" group-title="Deportes - Filipinas", beIN Sports 1 (Philippines)
+beINSports1.ph
+#EXTINF:-1 tvg-id="beINSports3.ph" tvg-name="beIN Sports 3 (Philippines)" tvg-logo="https://example.com/bein3-ph.png" group-title="Deportes - Filipinas", beIN Sports 3 (Philippines)
+beINSports3.ph
+
+# 🇺🇸 United States
+#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-name="beIN Sports USA" tvg-logo="https://example.com/bein-usa.png" group-title="Deportes - USA", beIN Sports USA
+beINSportsUSA.us
+#EXTINF:-1 tvg-id="beINSportsenEspanol.us" tvg-name="beIN Sports en Español (USA)" tvg-logo="https://example.com/bein-espanol-usa.png" group-title="Deportes - USA", beIN Sports en Español (USA)
+beINSportsenEspanol.us
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN Sports XTRA (USA)" tvg-logo="https://example.com/bein-xtra.png" group-title="Deportes - USA", beIN Sports XTRA (USA)
+beINSPORTSXTRA.us
