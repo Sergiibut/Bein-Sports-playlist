@@ -1,17 +1,50 @@
 #EXTM3U
-
+#DAZN
 #EXTINF:-1 tvg-id="ZonaDAZN.it" group-title="DAZN", Zona DAZN
 http://ZonaDAZN.it
-
 #EXTINF:-1 tvg-id="ZonaDAZN2.it" group-title="DAZN", Zona DAZN 2
 http://ZonaDAZN2.it
-
 #EXTINF:-1 tvg-id="ZonaDAZN3.it" group-title="DAZN", Zona DAZN 3
 http://ZonaDAZN3.it
-
 #EXTINF:-1 tvg-id="ZonaDAZN4.it" group-title="DAZN", Zona DAZN 4
 http://ZonaDAZN4.it
-
 #EXTINF:-1 tvg-id="ZonaDAZN5.it" group-title="DAZN", Zona DAZN 5
 http://ZonaDAZN5.it
 
+#Bein Sports
+#EXTINF:-1, BeIN 1 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/748.m3u8
+#EXTINF:-1, BeIN 2 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/749.m3u8
+#EXTINF:-1, BeIN 3 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/750.m3u8
+#EXTINF:-1, BeIN 4 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/751.m3u8
+#EXTINF:-1, BeIN 5 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/752.m3u8
+#EXTINF:-1, BeIN 6 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/753.m3u8
+#EXTINF:-1, BeIN 7 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/754.m3u8
+#EXTINF:-1, BeIN 8 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/755.m3u8
+#EXTINF:-1, BeIN 9 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/756.m3u8
+#EXTINF:-1, BeIN 10 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/757.m3u8
+#EXTINF:-1, BeIN 11 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/758.m3u8
+#EXTINF:-1, BeIN 12 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/759.m3u8
+#EXTINF:-1, BeIN 14 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/260.m3u8
+#EXTINF:-1, BeIN 15 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/261.m3u8
+#EXTINF:-1, BeIN 16 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/262.m3u8
+#EXTINF:-1, BeIN HD USA
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/195.m3u8
+#EXTINF:-1, BeIN Asia
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/146.m3u8
+#EXTINF:-1, BeIN FR 2
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/774.m3u8
