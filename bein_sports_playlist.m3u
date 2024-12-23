@@ -1,50 +1,277 @@
 #EXTM3U
-#DAZN
-#EXTINF:-1 tvg-id="ZonaDAZN.it" group-title="DAZN", Zona DAZN
-http://ZonaDAZN.it
-#EXTINF:-1 tvg-id="ZonaDAZN2.it" group-title="DAZN", Zona DAZN 2
-http://ZonaDAZN2.it
-#EXTINF:-1 tvg-id="ZonaDAZN3.it" group-title="DAZN", Zona DAZN 3
-http://ZonaDAZN3.it
-#EXTINF:-1 tvg-id="ZonaDAZN4.it" group-title="DAZN", Zona DAZN 4
-http://ZonaDAZN4.it
-#EXTINF:-1 tvg-id="ZonaDAZN5.it" group-title="DAZN", Zona DAZN 5
-http://ZonaDAZN5.it
-
-#Bein Sports
-#EXTINF:-1, BeIN 1 HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/748.m3u8
-#EXTINF:-1, BeIN 2 HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/749.m3u8
-#EXTINF:-1, BeIN 3 HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/750.m3u8
-#EXTINF:-1, BeIN 4 HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/751.m3u8
-#EXTINF:-1, BeIN 5 HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/752.m3u8
-#EXTINF:-1, BeIN 6 HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/753.m3u8
-#EXTINF:-1, BeIN 7 HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/754.m3u8
-#EXTINF:-1, BeIN 8 HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/755.m3u8
-#EXTINF:-1, BeIN 9 HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/756.m3u8
-#EXTINF:-1, BeIN 10 HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/757.m3u8
-#EXTINF:-1, BeIN 11 HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/758.m3u8
-#EXTINF:-1, BeIN 12 HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/759.m3u8
-#EXTINF:-1, BeIN 14 HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/260.m3u8
-#EXTINF:-1, BeIN 15 HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/261.m3u8
-#EXTINF:-1, BeIN 16 HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/262.m3u8
-#EXTINF:-1, BeIN HD USA
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/195.m3u8
-#EXTINF:-1, BeIN Asia
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/146.m3u8
-#EXTINF:-1, BeIN FR 2
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/774.m3u8
+#EXTINF:-1,Opción 1(M-Deportes)
+https://voraciousglove.net/embed/89ftq8ua1j5lr
+#EXTINF:-1,Opción 2(M-Deportes)
+http://desastre3.deficoin.life/play/deportes/index.m3u8
+#EXTINF:-1,Opción 3(Vamos)
+https://embx211012.apl217.me/player/live.php?id=211012&w=100%&h=100%
+#EXTINF:-1,Opción 4(Vamos)
+https://parsimoniousinvincible.net/embed/rq4g6
+#EXTINF:-1,Opción 7(M-Deportes 2)
+https://parsimoniousinvincible.net/embed/105qqn
+#EXTINF:-1,Opción 8(M-Deportes 2)
+https://emb.apl223.me/player/live.php?id=209096&w=100%&h=100%
+#EXTINF:-1,Opción 9(M-Deportes 3)
+https://parsimoniousinvincible.net/embed/dp4tigbdvjxr4l
+#EXTINF:-1,Opción 10(M-Deportes 3)
+https://assia24.com/live/gol-tv/?lang=
+#EXTINF:-1,Opción 11(M-Deportes 4)
+https://parsimoniousinvincible.net/embed/dxcfd934ttzx
+#EXTINF:-1,Opción 12(M-Deportes 4)
+https://godzillive.com/footy.php?player=desktop&live=ufeed70
+#EXTINF:-1,Opción 12(-.-)
+https://assia24.com/live/online-football/?lang=pl
+#EXTINF:-1,Algunas compañias no lo reproducen
+https://www.google.es/
+#EXTINF:-1,Dazn Liga
+https://voraciousglove.net/embed/zbz7klq
+#EXTINF:-1,Dazn Liga
+https://embx202281.apl202.me/player/live.php?id=210570&w=100%&h=100%
+#EXTINF:-1,Dazn 1
+http://desastre3.deficoin.life/play/dazn1/index.m3u8
+#EXTINF:-1,Dazn 1
+https://vikistream.com/embed2.php?player=desktop&live=do26
+#EXTINF:-1,Dazn 1
+https://starlive.xyz/embed.php?id=liveDAZN1_ES
+#EXTINF:-1,Dazn 1
+https://sportskart.click/embed/stream-445.php
+#EXTINF:-1,Dazn 1
+https://parsimoniousinvincible.net/embed/h5m4gyv36vtc
+#EXTINF:-1,Dazn 2
+https://parsimoniousinvincible.net/embed/xmr0xxbbmzod
+#EXTINF:-1,Dazn 2
+https://vikistream.com/embed2.php?player=desktop&live=do40
+#EXTINF:-1,Dazn 2
+https://sportskart.click/embed/stream-446.php
+#EXTINF:-1,Dazn 2
+https://emb.apl217.me/player/live.php?id=210937&w=100%&h=100%
+#EXTINF:-1,Dazn 2
+https://wecast.to/onionstream.php?stream=xmr0xxbbmzod
+#EXTINF:-1,Dazn 3
+https://sportskart.click/embed/stream-447.php
+#EXTINF:-1,Dazn 3
+https://vikistream.com/embed2.php?player=desktop&live=do19
+#EXTINF:-1,Dazn 3
+https://parsimoniousinvincible.net/embed/xvofyfktwqkwrr
+#EXTINF:-1,Dazn 3
+https://assia24.com/live/mix-sport5/?lang=es
+#EXTINF:-1,Dazn 3
+https://emb.apl217.me/player/live.php?id=209729?&w=100%&h=100%
+#EXTINF:-1,Dazn 4
+https://vikistream.com/embed2.php?player=desktop&live=do40
+#EXTINF:-1,Dazn 4
+https://embx210976.apl217.me/player/live.php?id=210976?&w=100%&h=100%
+#EXTINF:-1,Dazn 4
+https://parsimoniousinvincible.net/embed/qkduopi8remo1q
+#EXTINF:-1,Dazn 4
+https://sportskart.click/embed/stream-84.php
+#EXTINF:-1,Formula 1 GP Australia diferido.
+https://upstream.to/2rc9ml0f9y9o
+#EXTINF:-1,Manujaz MotoRSport F1 (Android)
+https://vkvsd16.mycdn.me/hls/3971713272346.m3u8/sig/7FLvZijxRlQ/expires/1680500924403/srcIp/37.14.131.253/urls/185.226.53.47/clientType/13/srcAg/CHROME_ANDROID/mid/4843857783578/3971713272346_fullhd/index.m3u8
+#EXTINF:-1,Manujaz MotoRSport F1 (Iphone)
+https://vkvsd38.mycdn.me/hls/3728780036835.m3u8/sig/DFkxsjQReVw/expires/1679235355855/srcIp/84.78.253.12/urls/185.226.52.48/clientType/13/srcAg/SAFARI_IPHONE_OTHER/mid/4506118728675/3728780036835_high/index.m3u8
+#EXTINF:-1,Manujaz MotoRSport Nascar
+https://vkvsd62.mycdn.me/hls/3877063166490.m3u8/sig/BvUFPRgoBhY/expires/1679609244387/srcIp/37.14.131.253/urls/185.226.53.64/clientType/13/srcAg/CHROME_ANDROID/mid/4763674225434/3877063166490_fullhd/index.m3u8
+#EXTINF:-1,WRC
+https://unbiasedsenseevent.com/embed/lsdcbyzutk9g9
+#EXTINF:-1,NASCAR
+https://unbiasedsenseevent.com/embed/lsdcbyzutk9g9
+#EXTINF:-1,Formula 1
+https://wecast.to/popy.php?stream=RdKfpotjL5g
+#EXTINF:-1,Formula 1
+https://vikistream.com/embed2.php?player=desktop&live=do10
+#EXTINF:-1,Formula 1
+http://desastre3.deficoin.life/play/formula1/index.m3u8
+#EXTINF:-1,Formula 1
+https://daddylivehd.com/mylivetv/stream-537.php
+#EXTINF:-1,Formula 1
+ https://www.freeshot.live/live-tv/dazn-f1/241
+#EXTINF:-1,Formula 1
+https://parsimoniousinvincible.net/embed/r23llp
+#EXTINF:-1,Formula 1
+https://tvhd.capshd.xyz/online/daznf1.php
+#EXTINF:-1,Formula 1
+https://watchtvchh.xyz/channel/ch018001.php
+#EXTINF:-1,Formula 1
+https://starlive.xyz/embed.php?id=liveF1_ES
+#EXTINF:-1,Formula 1
+https://unbiasedsenseevent.com/embed/phsheh97kpcdvc2
+#EXTINF:-1,Formula 1-Inglés
+http://sportsurge.stream/embed/f1.php
+#EXTINF:-1,Formula 1-Inglés
+https://www.soccerstreams.football/news/03-03/formula-march-3/
+#EXTINF:-1,Carrera al sprint Argentina
+https://upstream.to/fditwey0kgy1
+#EXTINF:-1,Carrera Moto GP Argentina diferido
+https://upstream.to/gebo7cyu3b88
+#EXTINF:-1,Manujaz MotoRSport MOTO GP (Android)
+https://vkvsd53.mycdn.me/hls/3906331740698.m3u8/sig/5-r8w_Dql5I/expires/1679916254238/srcIp/37.14.131.253/urls/185.226.52.66/clientType/13/srcAg/CHROME_ANDROID/mid/4787679865626/3906331740698_fullhd/index.m3u8
+#EXTINF:-1,Manujaz MotoRSport MOTO GP (IOS)
+https://vkvsd76.mycdn.me/hls/3906331740698.m3u8/sig/DJw42q3SFnI/expires/1679916205113/srcIp/37.14.131.253/urls/185.226.53.66/clientType/13/srcAg/SAFARI_IPHONE_OTHER/mid/4787679865626/3906331740698_fullhd/index.m3u8
+#EXTINF:-1,Moto GP
+https://vikistream.com/embed2.php?player=desktop&live=do10
+#EXTINF:-1,Moto GP
+http://desastre3.deficoin.life/play/dazn1/index.m3u8
+#EXTINF:-1,Moto GP
+https://unbiasedsenseevent.com/embed/ez3sjcbvjr4
+#EXTINF:-1,Moto GP
+https://parsimoniousinvincible.net/embed/h5m4gyv36vtc
+#EXTINF:-1,Moto GP
+https://starlive.xyz/embed.php?id=liveDAZN1_ES
+#EXTINF:-1,Moto GP
+https://web.ucplayer1.com/bff3gbgfff
+#EXTINF:-1,Moto GP (inglés)
+https://headlines.soccerstreams.football/sat-formula-australian-2023/
+#EXTINF:-1,Moto GP (Inglés)
+https://ragnaru.net/embed2.php?player=desktop&live=do2
+#EXTINF:-1,(Vamos)
+https://parsimoniousinvincible.net/embed/rq4g6
+#EXTINF:-1,(Vamos)
+https://sportskart.click/embed/stream-521.php
+#EXTINF:-1,Borussia M'gladbach vs Wolfsburg(M-Campeones)
+https://parsimoniousinvincible.net/embed/lbr3etluqsw
+#EXTINF:-1,Borussia M'gladbach vs Wolfsburg(M-Campeones)
+https://sportskart.click/embed/stream-435.php
+#EXTINF:-1,(M-Campeones)
+https://parsimoniousinvincible.net/embed/lbr3etluqsw
+#EXTINF:-1,(M-Campeones)
+https://kepa.pw/abed.php?file=ligadecampeonesbahia
+#EXTINF:-1,(M-Campeones 2)
+https://parsimoniousinvincible.net/embed/cmms5rk1
+#EXTINF:-1,(M-Campeones 2)
+https://parsimoniousinvincible.net/embed/cmms5rk1
+#EXTINF:-1,(M-Campeones 2)
+https://parsimoniousinvincible.net/embed/cmms5rk1
+#EXTINF:-1,(M-Campeones 2)
+https://parsimoniousinvincible.net/embed/cmms5rk1
+#EXTINF:-1,(M-Campeones 3)
+https://parsimoniousinvincible.net/embed/gagr8b
+#EXTINF:-1,(M-Campeones 3)
+https://parsimoniousinvincible.net/embed/gagr8b
+#EXTINF:-1,
+https://vikistream.com/embed2.php?player=desktop&live=do15
+#EXTINF:-1,Hoffenheim vs Schalke 04
+https://vikistream.com/embed2.php?player=desktop&live=do11
+#EXTINF:-1,
+https://vikistream.com/embed2.php?player=desktop&live=do16
+#EXTINF:-1,Bochum vs Stuttgart
+https://vikistream.com/embed2.php?player=desktop&live=do12
+#EXTINF:-1,
+https://vikistream.com/embed2.php?player=desktop&live=do14
+#EXTINF:-1,Leeds United vs Crystal Palace(DAZ1)
+https://parsimoniousinvincible.net/embed/h5m4gyv36vtc
+#EXTINF:-1,Leeds United vs Crystal Palace(DAZN 1)
+http://desastre3.deficoin.life/play/dazn1/index.m3u8
+#EXTINF:-1,Liverpool vs Arsenal(DAZN 1)
+https://vikistream.com/embed2.php?player=desktop&live=do9
+#EXTINF:-1,Liverpool vs Arsenal(DAZN 1)
+http://desastre3.deficoin.life/play/dazn1/index.m3u8
+#EXTINF:-1,(DAZN 1)
+https://vikistream.com/embed2.php?player=desktop&live=do9
+#EXTINF:-1,(DAZN 1)
+https://sportskart.click/embed/stream-445.php
+#EXTINF:-1,(DAZN 2)
+https://sportskart.click/embed/stream-446.php
+#EXTINF:-1,(DAZN2)
+https://parsimoniousinvincible.net/embed/xmr0xxbbmzod
+#EXTINF:-1,(DAZN2)
+https://vikistream.com/embed2.php?player=desktop&live=do26
+#EXTINF:-1,(DAZN2)
+https://parsimoniousinvincible.net/embed/xmr0xxbbmzod
+#EXTINF:-1,(DAZN3)
+https://warnforlese.net/embed/xvofyfktwqkwrr
+#EXTINF:-1,(DAZN3)
+https://parsimoniousinvincible.net/embed/xvofyfktwqkwrr
+#EXTINF:-1,(DAZN 4)
+https://parsimoniousinvincible.net/embed/w67i2uz
+#EXTINF:-1,
+https://vikistream.com/embed2.php?player=desktop&live=do32
+#EXTINF:-1,
+https://vikistream.com/embed2.php?player=desktop&live=do34
+#EXTINF:-1,
+https://unbiasedsenseevent.com/embed/n09ipt12zu
+#EXTINF:-1,Lyon vs Rennes
+https://unbiasedsenseevent.com/embed/pbbue32
+#EXTINF:-1,Lyon vs Rennes
+https://vikistream.com/embed2.php?player=desktop&live=do38
+#EXTINF:-1,Montpellier - Toulouse
+https://vikistream.com/embed2.php?player=desktop&live=do38
+#EXTINF:-1,Montpellier - Toulouse
+https://unbiasedsenseevent.com/embed/pbbue32
+#EXTINF:-1,Reims vs Brest
+https://vikistream.com/embed2.php?player=desktop&live=do2
+#EXTINF:-1,Reims vs Brest
+https://unbiasedsenseevent.com/embed/pbbue32
+#EXTINF:-1,Ajaccio vs Auxerre
+https://vikistream.com/embed2.php?player=desktop&live=do38
+#EXTINF:-1,Troyes vs Clermont
+https://vikistream.com/embed2.php?player=desktop&live=do18
+#EXTINF:-1,Nantes vs Monaco
+https://unbiasedsenseevent.com/embed/pbbue32
+#EXTINF:-1,Nantes vs Monaco
+https://unbiasedsenseevent.com/embed/pbbue38
+#EXTINF:-1,Lorient vs Marseille
+https://vikistream.com/embed2.php?player=desktop&live=do38
+#EXTINF:-1,
+https://vikistream.com/embed2.php?player=desktop&live=do38
+#EXTINF:-1,
+https://vikistream.com/embed2.php?player=desktop&live=do22
+#EXTINF:-1,(Vamos)
+https://parsimoniousinvincible.net/embed/rq4g6
+#EXTINF:-1,(Vamos)
+https://sportskart.click/embed/stream-521.php
+#EXTINF:-1,(M-Campeones)
+https://parsimoniousinvincible.net/embed/lbr3etluqsw
+#EXTINF:-1,(M-Campeones)
+https://sportskart.click/embed/stream-435.php
+#EXTINF:-1,(M-Campeones)
+https://warnforlese.net/embed/lbr3etluqsw
+#EXTINF:-1,(M-Campeones)
+http://desastre3.deficoin.life/play/campeones/index.m3u8
+#EXTINF:-1,(M-Campeones)
+https://parsimoniousinvincible.net/embed/lbr3etluqsw
+#EXTINF:-1,(M-Campeones)
+https://sportskart.click/embed/stream-435.php
+#EXTINF:-1,(M-Campeones)
+https://parsimoniousinvincible.net/embed/lbr3etluqsw
+#EXTINF:-1,(M-Campeones)
+https://utopianwilderness.com/embed/ktpqv1iq2
+#EXTINF:-1,(M-Campeones 2)
+https://voraciousglove.net/embed/cmms5rk1
+#EXTINF:-1,(M-Campeones 2)
+https://voraciousglove.net/embed/cmms5rk1
+#EXTINF:-1,(M-Campeones 2)
+https://grosseaffiche.com/footy.php?player=desktop&live=ufeed65
+#EXTINF:-1,(M-Campeones 2)
+https://grosseaffiche.com/footy.php?player=desktop&live=ufeed65
+#EXTINF:-1,(M-Campeones 3)
+https://parsimoniousinvincible.net/embed/gagr8b
+#EXTINF:-1,(M-Campeones 3)
+https://parsimoniousinvincible.net/embed/gagr8b
+#EXTINF:-1,(M-Campeones 5)
+https://parsimoniousinvincible.net/embed/105qqn
+#EXTINF:-1,
+https://vikistream.com/embed2.php?player=desktop&live=do6
+#EXTINF:-1,
+https://unbiasedsenseevent.com/embed/kd6w2ucd5c
+#EXTINF:-1,
+https://vikistream.com/embed2.php?player=desktop&live=do6
+#EXTINF:-1,
+https://unbiasedsenseevent.com/embed/kd6w2ucd5c
+#EXTINF:-1,
+https://parsimoniousinvincible.net/embed/t83h07fpraz
+#EXTINF:-1,
+https://vikistream.com/embed2.php?player=desktop&live=do3
+#EXTINF:-1,
+https://unbiasedsenseevent.com/embed/ypzz73m5m
+#EXTINF:-1,
+https://unbiasedsenseevent.com/embed/kd6w2ucd5c
+#EXTINF:-1,
+https://vikistream.com/embed2.php?player=desktop&live=do37
+#EXTINF:-1,
+https://unbiasedsenseevent.com/embed/ez3sjcbvjr4
+#EXTINF:-1,Canal 0#
+https://sportskart.click/embed/stream-437.php
+#EXTINF:-1,Canal pruebas
+http://185.233.16.151:8000/play/Compra05/68644862/165418.ts?token=H0EMV0RQRl8UA1wMUVsDWlJVUAMAAlYCAgBVCQFZAAZQW1EPB10CVVVDFRZAFkBdBw48WFASDVUDAlIJWxQXRhcGFmleXEZfFFAKBgJWBxpKQRdYWVUVXgQBXghWAA0DUFZIFEdRAEcMQwwDAVQAGkpBBklAVUUKVFs5XAZOXFABQV5YQlQISRQOV2tXB19ZCAdBCxYBFUgXXhVIQQJbRggPSBRVURAXVxVcFgkMR1QKT0FSW0VZEEdORAJBfWYRSEEBTkNdChZfDlcWCUBGS0RPQVhHb0UBRkMUXQJVUEFGWUYGFRRGCFcZZldcDFxdBRcKXlpDFV4XBkQUQVVaXQ0XC0RoSA0BFFsbAQRTBAtEHg==
