@@ -521,3 +521,7 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2524/index.m3u8
 #EXTINF:0 tvg-rec="3",DIGI Sport 4 HD RO
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2538/index.m3u8
+#EXTINF:-1,DIGI Sport 1 HD
+http://fr01.spr24.net/22383/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,DIGI Sport 1
+http://fr01.spr24.net/22937/index.m3u8?token=BQF9PmuRpcxUqR
